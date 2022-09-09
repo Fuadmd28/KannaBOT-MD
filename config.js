@@ -41,33 +41,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/BaraXD'
-global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
-global.sdc = 'https://t.me/BotzzMeeOFC'
+global.sig = '_'
+global.sgh = 'https://github.com'
+global.sgc = '_'
+global.sdc = '_'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.pdana = '08989513496'
+global.povo = '08989513496'
+global.pgopay = '08989513496'
+global.ppulsa = '08989513496'
+global.ppulsa2 = '08989513496'
+global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
-global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.nomorbot = '6289675759012'
+global.nomorown = '628989513496'
+global.namebot = 'NeKo-Botzz'
+global.nameown = 'Bang Fuad'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
+  ['628989513496'],
+  ['628989513496'],
+  ['628989513496'],
+  ['628989513496', 'Bang Fuad', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,8 +112,8 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'BotzzMee-Md【﻿ＸｘＹｚ】' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ BotzzMee-Md¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm = 'NeKo-Botzz' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ NeKo-Botzz¨˜ˆ”°⍣~•⊹٭„¸'
 global.wm3 = '☘︎ ʙᴏᴛᴢᴢᴍᴇᴇ-MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
